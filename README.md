@@ -3,8 +3,10 @@ Name: Amir Namini
 Filename: textAdventure.py
 
 Description: 
-This game aims to test the user’s knowledge of fourth amendment issues surrounding "stop" versus “search”.  The user can make decisions based on available options by typing the options as inputs.  To successfully navigate to the end of the game, one needs to know some legal issues. However, the user can get help on each stage by inputting “help”. 
-To put a suspect under arrest, the officer must first get the evidence.  The user can do this by “get” input.  Also the user have to arrest the suspect before putting him inside the patrol car.  The user can do this by “arrest” input.  To arrest a suspect, the officer must have a handcuff.  If for a reason the handcuff is dropped in an earlier room, the officer may borrow one from his colleagues by inputting “borrow”.  Generally, the user can use the inputs below to perform actions.  
+This game was developed during Computer Programming for Lawyers course.  It aims to test the user’s knowledge of Fourth Amendment issues surrounding "stop" versus “search” as defined by the Supreme Court of the United States.  The user engages and makes decision based on options available on the screen.  To successfully navigate to the end of the game, one needs to know some legal issues. However, the user can get help on each stage by typing “help”.  To move ahead, type your response and press enter/return. 
+
+Some Useful Hints:
+To put a suspect under arrest, the officer must first get the evidence.  The user can do this by “get” input.  Also the user have to arrest the suspect before putting him inside the patrol car.  The user can do this by “arrest” input.  To arrest a suspect, the officer must have a handcuff.  If for a reason the handcuff is dropped in an earlier room, the officer may borrow one from his colleague by inputting “borrow”.  Generally, the user can use the following terms to perform various acts.  
 
 Control:
 * get: allows user to pick up an object in each room and keep it.
